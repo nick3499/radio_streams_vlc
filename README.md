@@ -1,5 +1,7 @@
 # Radio Streams VLC
 
+![Radio Streams VLC](radio-vlc-wrapper-bash-python.png)
+
 `radio_streams_vlc` is a VLC wrapper written Python3, made available under [MIT](https://opensource.org/licenses/MIT) license.
 
 `station_selection()` wraps the [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player), used as a command-line application to stream Internet radio.
