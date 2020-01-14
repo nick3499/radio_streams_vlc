@@ -37,7 +37,7 @@ The `enumerate(_reader, 1)` call generates station descriptions with numbers, st
 
 The `run()` method has a similar effect to sourcing a Bash shell script.
 
->If _check_ is true, and the process exits with a non-zero exit code, a [CalledProcessError](https://docs.python.org/3/library/subprocess.html#subprocess.CalledProcessError) exception will be raised. Attributes of that exception hold the arguments, the exit code, and stdout and stderr if they were captured.[^1]
+>If _check_ is true, and the process exits with a non-zero exit code, a [CalledProcessError](https://docs.python.org/3/library/subprocess.html#subprocess.CalledProcessError) exception will be raised. Attributes of that exception hold the arguments, the exit code, and stdout and stderr if they were captured.<sup id="a1">[1](#f1)</sup>
 
 ```python
 run(['/snap/bin/vlc', '--intf', 'ncurses', urls[station_num]], check=True)
@@ -66,4 +66,5 @@ The ASCII art above comes `ascii_radio.txt` which was generated using `pyfiglet`
 
 `--intf ncurses` displays a GUI in the terminal (press 'h' for the help display)
 
-[^1]: [subprocess.run](https://docs.python.org/3/library/subprocess.html#subprocess.run)
+
+ 1. <small id="f1">[subprocess.run](https://docs.python.org/3/library/subprocess.html#subprocess.run)</small> [↩](#a1)
