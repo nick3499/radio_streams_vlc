@@ -8,6 +8,24 @@
 
 This script was tested with Python 3.6.9/PyPy 7.3.0.
 
+## .bashrc
+
+```bash
+export PYTHONUSERDIR="/home/foo"
+export PYTHONSTARTUP="$PYTHONUSERDIR/.pythonrc"
+```
+
+## .pythonrc
+
+In the Python run commands file, `import` the `os` module to navigate to whereever Radio Streams VLC's working directory resides.
+
+```python
+import os
+os.chdir('/home/foo/scripts/radio_streams_vlc/')
+```
+
+An alternative to this would be to add the full paths to `ascii_radio.txt` and `radio_streams_vlc.py`.
+
 ## Start the App
 
 ```bash
@@ -56,4 +74,3 @@ The ASCII art above comes `ascii_radio.txt` which was generated using `pyfiglet`
 ## Interface
 
 `--intf ncurses` displays a GUI in the terminal (press 'h' for the help display)
-
