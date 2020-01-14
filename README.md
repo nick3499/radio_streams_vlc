@@ -65,3 +65,5 @@ The ASCII art above comes `ascii_radio.txt` which was generated using `pyfiglet`
 ## Interface
 
 `--intf ncurses` displays a GUI in the terminal (press 'h' for the help display)
+
+1. https://docs.python.org/3/library/subprocess.html#subprocess.run
