@@ -11,8 +11,8 @@ This script was tested with Python 3.6.9/PyPy 7.3.0.
 ## .bashrc
 
 ```bash
-export PYTHONUSERDIR="/home/foo"
-export PYTHONSTARTUP="$PYTHONUSERDIR/.pythonrc"
+export PATH="$PATH:$HOME/scripts"
+export PYTHONUSERDIR="$HOME"
 ```
 
 ## Start the App
