@@ -1,6 +1,6 @@
 # Radio Streams VLC
 
-![Radio Streams VLC](radio-vlc-wrapper-bash-python.png)
+![Radio Streams VLC](screen_capture.png)
 
 `radio_streams_vlc` is a VLC wrapper written in Python3, made available under [MIT](https://opensource.org/licenses/MIT) license.
 
