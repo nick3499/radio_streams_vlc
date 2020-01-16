@@ -2,7 +2,7 @@
 
 ![Radio Streams VLC](radio-vlc-wrapper-bash-python.png)
 
-`radio_streams_vlc` is a VLC wrapper written Python3, made available under [MIT](https://opensource.org/licenses/MIT) license.
+`radio_streams_vlc` is a VLC wrapper written in Python3, made available under [MIT](https://opensource.org/licenses/MIT) license.
 
 `station_selection()` wraps the [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player), used as a command-line application to stream Internet radio.
 
@@ -60,7 +60,7 @@ $ /snap/bin/vlc --intf ncurses https://somafm.com/missioncontrol130.pls
  MMMM   "W" YMM   ""` MMMMP"`  MMM  "YMMMMMP"
 ```
 
-The ASCII art above comes `ascii_radio.txt` which was generated using `pyfiglet`. A `with open()` block was used to print the ASCII art from the text stream line by line.
+The ASCII art above comes from `ascii_radio.txt` which was generated using `pyfiglet`. A `with open()` block was used to print the ASCII art from the text stream line by line.
 
 ## Interface
 
