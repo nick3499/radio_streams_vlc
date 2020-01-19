@@ -66,4 +66,26 @@ The ASCII art above comes from `ascii_radio.txt` which was generated using `pyfi
 
 `--intf ncurses` displays a GUI in the terminal (press 'h' for the help display)
 
+## Desktop Launcher
+
+![Desktop Icon Image](radio_streams_vlc.png)
+
+```shell
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Radio Streams VLC
+GenericName=Radio Streams VLC
+Comment=Displays list of Internet radio stations to choose from.
+Icon=/usr/share/icons/foo/256x256/radio_streams_vlc.png
+TryExec=xterm
+Exec=xterm -fa "monofur" -fs 10 -geometry 90x60+0 -e /home/foo/scripts/radio_streams_vlc/radio_streams_vlc.py
+Path=/home/foo/scripts/radio_streams_vlc/
+Terminal=true
+Actions=
+Categories=Audio;Player;
+```
+
+To list available fonts: `fc-list | cut -f2 -d: | sort -u | grep -i Mono`
+
 1. https://docs.python.org/3/library/subprocess.html#subprocess.run
