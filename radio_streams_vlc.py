@@ -1,6 +1,6 @@
 #! /snap/bin/pypy3
 '''`radio_streams_vlc` displays a list of Internet radio stations along with
-numbers for users to make selections. Press "h" for help.'''
+numbers for users to make selections. Press "h" for help in ncurses intf.'''
 from os import chdir
 from csv import reader
 from subprocess import run
