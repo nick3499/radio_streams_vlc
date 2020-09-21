@@ -1,12 +1,11 @@
-DEF CON [SomaFM],Mid-tempo DownTempo ChillOut ChillStep ElectroSoul Ambient,http://ice2.somafm.com/defcon-64-aac
-Black Rock FM [SomaFM],DarkAmbient DesertElectronic,http://ice2.somafm.com/brfm-64-aac
-Drone Zone [SomaFM],Ambient Space,http://ice4.somafm.com/dronezone-64-aac
-Deep Space One [SomaFM],Ambient Space,http://ice2.somafm.com/deepspaceone-64-aac
-Space Station Soma [SomaFM],DownTempo Space,http://ice3.somafm.com/spacestation-64-mp3
-SF 10-33 [SomaFM],Ambient PoliceDispatch,http://ice4.somafm.com/sf1033-64-aac
-Mission Control [SomaFM],Ambient NASAChatter,http://ice4.somafm.com/missioncontrol-64-aac
-Groove Salad [SomaFM],Ambient DownTempo,http://ice4.somafm.com/groovesalad-64-aac
-Groove Salad Classic [SomaFM],DownTempo ChillOut,http://ice4.somafm.com/gsclassic-64-aac
+DEF CON [SomaFM],Mid-tempo DownTempo ChillOut ChillStep ElectroSoul Ambient,http://ice3.somafm.com/defcon-128-aac
+Black Rock FM [SomaFM],DarkAmbient DesertElectronic,http://ice3.somafm.com/brfm-128-aac
+Drone Zone [SomaFM],Ambient Space,http://ice2.somafm.com/dronezone-128-aac
+Deep Space One [SomaFM],Ambient Space,http://ice2.somafm.com/deepspaceone-128-aac
+Space Station Soma [SomaFM],DownTempo Space,http://ice5.somafm.com/spacestation-128-aac
+SF 10-33 [SomaFM],Ambient PoliceDispatch,http://ice3.somafm.com/sf1033-128-aac
+Groove Salad [SomaFM],Ambient DownTempo,http://ice6.somafm.com/groovesalad-128-aac
+Groove Salad Classic [SomaFM],DownTempo ChillOut,http://ice4.somafm.com/gsclassic-128-aac
 DeepSpaceChill [Radio InfoWeb],ChillOut EDM | New York,http://stream.radioinfoweb.net:8000/chill
 Ambient Chill Psychedelic [Psychedelik.com],Ambient,http://163.172.98.143:8002/Ambient
 Loca Ambient,Ambient | Madrid,http://audio-online.net:8007/live
@@ -17,6 +16,9 @@ RePlayScape,Ambient Chill Classical Electronic Experimental,http://195.176.247.1
 Radio Schizoid,Psychdelic ChillOut Ambient | Mumbai,http://94.130.113.214:8000/chill
 Chill Out Zone,Chillout Psychill Ambient Breaks | NL,http://144.76.81.20:8000/Ambient
 AmbientRadio [MRG.fm],Ambient Electronic Meditation Experimental DownTempo,http://62.149.196.16:8888
+Cosmic Island,Ambient Chill NewAge Meditation Spiritual,https://ais-edge08-live365-dal02.cdnstream.com/a65670
+Hirschmilch Chillout,Chillout,http://hirschmilch.de:7000/chillout.mp3
+Zero Beat Zone [MRG.fm],Dark Industrial Psybient Environmental Experimental,http://62.149.196.16:8800/stream
 Dark Ambient,DarkAmbient,http://95.211.3.65:8835
 Real World Sounds,Nature Ambient Chillout Relaxation,http://uk5.internet-radio.com:8260/stream
 Ambient Fantasy [DI],Ambient,http://5.39.71.159:8193
@@ -61,14 +63,14 @@ Sleepscapes | Rain,Ambient Chill,http://198.27.120.235:8850/Ambient
 Real World Sounds,Nature Ambient Chillout Relaxation StreetNoise,http://uk5.internet-radio.com:8260/stream
 White Noise,WhiteNoise Ambient ChillOut,http://109.74.196.48:8267
 Pink Noise Radio,ChillOut Ambient Noise | UK,http://uk1.internet-radio.com:8004
+Sven Radio,Ambient ChillOut NewAge | TechHouse EDM,http://51.255.127.128:8012
+Ambient II | Things [Calm Radio],Ambient Chill Electronic NewAge,http://23.82.11.87:24728/Ambient
 ? intraNature,Meditation Ambient Nature,http://192.240.102.198:14244
 ? UVB-76,Ambient | Russia,http://uk3-pn.mixstream.net:8370
 ? Slowmodo Rain,Ambient,http://149.202.79.68:8139
-? Ambient II | Things [Calm Radio],Ambient Chill Electronic NewAge,http://23.82.11.87:24728/Ambient
 ? ChillOut | Lounge DJ Set [Chromanova.fm],Ambient Chill Lounge DownTempo Techno | Berlin,http://176.31.123.212:8192/Ambient
 ? SleepBot Env. Broadcast,Ambient,http://sc13.shoutcaststreaming.us:8194
 ? Ambient Radio: Party Vibe,Ambient ChillOut | London,http://94.130.238.52:8056/stream
-? Sven Radio,Ambient ChillOut NewAge | TechHouse EDM,http://51.255.127.128:8012
 ? FmDomPMR,ChillOut Ambient PsyChill,http://130.185.144.199:18832
 ? Ambient [ChromaRadio],Ambient | Athens,http://148.251.184.14:8004
 ? SSR1 [Systrum Sistum],Ambient Drone Electronic Experimental | Australia,http://systrum.net:8000/Systrum-Channel1
