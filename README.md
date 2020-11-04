@@ -89,3 +89,5 @@ Categories=Audio;Player;
 To list available fonts: `fc-list | cut -f2 -d: | sort -u | grep -i Mono`
 
 1. https://docs.python.org/3/library/subprocess.html#subprocess.run
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
