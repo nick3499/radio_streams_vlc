@@ -7,26 +7,20 @@ SF 10-33 [SomaFM],Ambient PoliceDispatch,http://ice3.somafm.com/sf1033-128-aac
 Groove Salad [SomaFM],Ambient DownTempo,http://ice6.somafm.com/groovesalad-128-aac
 Groove Salad Classic [SomaFM],DownTempo ChillOut,http://ice4.somafm.com/gsclassic-128-aac
 DeepSpaceChill [Radio InfoWeb],ChillOut EDM | New York,http://stream.radioinfoweb.net:8000/chill
-Ambient Chill Psychedelic [Psychedelik.com],Ambient,http://163.172.98.143:8002/Ambient
-Loca Ambient,Ambient | Madrid,http://audio-online.net:8007/live
 Ambient Modern,Ambient LoFi NewAge,http://163.172.169.217:80/Ambient
-Moon Phase,Ambient DownTempo | UK,http://109.236.85.141:7009
 Planet Ambi HD,Ambient Relax | Swiss,http://176.31.107.8:9019/Ambient
-RePlayScape,Ambient Chill Classical Electronic Experimental,http://195.176.247.12:8128
 Radio Schizoid,Psychdelic ChillOut Ambient | Mumbai,http://94.130.113.214:8000/chill
 Chill Out Zone,Chillout Psychill Ambient Breaks | NL,http://144.76.81.20:8000/Ambient
 AmbientRadio [MRG.fm],Ambient Electronic Meditation Experimental DownTempo,http://62.149.196.16:8888
 Cosmic Island,Ambient Chill NewAge Meditation Spiritual,https://ais-edge08-live365-dal02.cdnstream.com/a65670
 Hirschmilch Chillout,Chillout,http://hirschmilch.de:7000/chillout.mp3
 Zero Beat Zone [MRG.fm],Dark Industrial Psybient Environmental Experimental,http://62.149.196.16:8800/stream
-Dark Ambient,DarkAmbient,http://95.211.3.65:8835
 Real World Sounds,Nature Ambient Chillout Relaxation,http://uk5.internet-radio.com:8260/stream
 Ambient Fantasy [DI],Ambient,http://5.39.71.159:8193
 Relaxing Radio,Ambient,http://149.56.195.94:8660
 Infinite Space,Ambient DownTempo LoFi,http://198.24.145.146:9654
 Echoes of BLUEMARS,Ambient,http://streams.echoesofbluemars.org/bluemars.m3u
 Cryosleep [Echoes of BLUEMARS],Ambient | Paris,http://streams.echoesofbluemars.org:8000/cryosleep
-Dark Ambient,DarkAmbient | Germany,http://s3.viastreaming.net:8835/
 ChillOut [psyradio.fm],ChillOut Goa Ambient,http://streamer.psyradio.org:8020/ChillOut
 Verdure.net,Ambient Electronica | Russia,http://air.verdure.net:8881
 Maschinengeist.org,Ambient Drone Experimental DownTempo Space DreamPop,http://185.47.61.71:8000/maschinengeist.org.192.mp3
@@ -48,8 +42,6 @@ Nirvana Meditation,Ambient ChillOut | Poland,http://81.219.54.6:8004
 Vibration Zen Relax,Ambient | Swiss,http://91.121.38.100:8220
 ChillOut Essentials [MixLive.ie],Ambient ChillOut DownTempo | Ireland,http://198.24.145.146:9998
 Solar Walk,Ambient,http://188.165.192.5:8193
-Indie Int. Lounge Network,Lounge ChillOut Ambient,http://206.190.130.182:8188
-LFOD: Pi Radio,ChillOut Trap Chillstep Ambient,http://radio.lfod.online:3140/mpd
 Relaxing Radio,Ambient,http://149.56.195.94:8660
 Serene,Ambient ChillOut DownTempo,http://192.99.17.12:4950
 Ambient I | Spaces [Calm Radio],Ambient Chill Electronic NewAge,http://23.82.11.88:6728/Ambient
@@ -64,7 +56,14 @@ Real World Sounds,Nature Ambient Chillout Relaxation StreetNoise,http://uk5.inte
 White Noise,WhiteNoise Ambient ChillOut,http://109.74.196.48:8267
 Pink Noise Radio,ChillOut Ambient Noise | UK,http://uk1.internet-radio.com:8004
 Sven Radio,Ambient ChillOut NewAge | TechHouse EDM,http://51.255.127.128:8012
-Ambient II | Things [Calm Radio],Ambient Chill Electronic NewAge,http://23.82.11.87:24728/Ambient
+? LFOD: Pi Radio,ChillOut Trap Chillstep Ambient,http://radio.lfod.online:3140/mpd
+? Indie Int. Lounge Network,Lounge ChillOut Ambient,http://206.190.130.182:8188
+? Dark Ambient[same 8835?],DarkAmbient | Germany,http://s3.viastreaming.net:8835/
+? Dark Ambient[same 8835?],DarkAmbient,http://95.211.3.65:8835
+? Moon Phase,Ambient DownTempo | UK,http://109.236.85.141:7009
+? RePlayScape,Ambient Chill Classical Electronic Experimental,http://195.176.247.12:8128
+? Ambient Chill Psychedelic [Psychedelik.com],Ambient,http://163.172.98.143:8002/Ambient
+? Loca Ambient,Ambient | Madrid,http://audio-online.net:8007/live
 ? intraNature,Meditation Ambient Nature,http://192.240.102.198:14244
 ? UVB-76,Ambient | Russia,http://uk3-pn.mixstream.net:8370
 ? Slowmodo Rain,Ambient,http://149.202.79.68:8139
