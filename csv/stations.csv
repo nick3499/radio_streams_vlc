@@ -1,76 +1,94 @@
-DEF CON [SomaFM],Mid-tempo DownTempo ChillOut ChillStep ElectroSoul Ambient,http://ice3.somafm.com/defcon-128-aac
-Black Rock FM [SomaFM],"dark ambient desert electronic",http://ice3.somafm.com/brfm-128-aac
-Drone Zone [SomaFM],Ambient Space,http://ice2.somafm.com/dronezone-128-aac
-Deep Space One [SomaFM],Ambient Space,http://ice2.somafm.com/deepspaceone-128-aac
-Space Station Soma [SomaFM],DownTempo Space,http://ice5.somafm.com/spacestation-128-aac
-SF 10-33 [SomaFM],Ambient PoliceDispatch,http://ice3.somafm.com/sf1033-128-aac
-Groove Salad [SomaFM],Ambient DownTempo,http://ice6.somafm.com/groovesalad-128-aac
-Groove Salad Classic [SomaFM],DownTempo ChillOut,http://ice4.somafm.com/gsclassic-128-aac
-DeepSpaceChill [Radio InfoWeb],ChillOut EDM | New York,http://stream.radioinfoweb.net:8000/chill
-Ambient Modern,Ambient LoFi NewAge,http://163.172.169.217:80/Ambient
-Planet Ambi HD,Ambient Relax | Swiss,http://176.31.107.8:9019/Ambient
-Radio Schizoid,Psychdelic ChillOut Ambient | Mumbai,http://94.130.113.214:8000/chill
-Chill Out Zone,Chillout Psychill Ambient Breaks | NL,http://144.76.81.20:8000/Ambient
-AmbientRadio [MRG.fm],Ambient Electronic Meditation Experimental DownTempo,http://62.149.196.16:8888
-Cosmic Island,Ambient Chill NewAge Meditation Spiritual,https://ais-edge08-live365-dal02.cdnstream.com/a65670
-Hirschmilch Chillout,Chillout,http://hirschmilch.de:7000/chillout.mp3
-Zero Beat Zone [MRG.fm],Dark Industrial Psybient Environmental Experimental,http://62.149.196.16:8800/stream
-Real World Sounds,Nature Ambient Chillout Relaxation,http://uk5.internet-radio.com:8260/stream
-Ambient Fantasy [DI],Ambient,http://5.39.71.159:8193
-Relaxing Radio,Ambient,http://149.56.195.94:8660
-Infinite Space,Ambient DownTempo LoFi,http://198.24.145.146:9654
-Echoes of BLUEMARS,Ambient,http://streams.echoesofbluemars.org/bluemars.m3u
-Cryosleep [Echoes of BLUEMARS],Ambient | Paris,http://streams.echoesofbluemars.org:8000/cryosleep
-ChillOut [psyradio.fm],ChillOut Goa Ambient,http://streamer.psyradio.org:8020/ChillOut
-Verdure.net,Ambient Electronica | Russia,http://air.verdure.net:8881
-Maschinengeist.org,Ambient Drone Experimental DownTempo Space DreamPop,http://185.47.61.71:8000/maschinengeist.org.192.mp3
-9128 Live,Ambient Techno Electronica,http://streams.radio.co:80/s0aa1e6f4a/listen
-Ultima Thule,Ambient,http://www.ultimathule.info/audio_programmes2019/UT_1298_56k.mp3
-STR [spacetravelradio.de],Lounge Ambient Space | Germany,http://136.243.156.30:1701/stream/2/
-Slow Focus: NTS,Relaxing Drone Ambient | London,https://stream-mixtape-geo.ntslive.net/mixtape
-Seven Rays [laut.fm],New Age ChillOut Ambient | Ukraine,http://7rays.stream.laut.fm/7rays
-Radio Record,ChillOut Ambient | Russia,http://air.radiorecord.ru:8102/chil_320
-Radio Provodach,ChillOut Ambient | Russia,http://station.waveradio.org/provodach
-ChillOut Zone,Drone Ambient DownTempo Lounge ChillOut,http://5.189.142.165:2304/stream
-Radio Dimensione Relax,ChillOut Lounge Ambient | Italy,http://tachyon.shoutca.st:8919/stream
-Radio Caprice,DroneAmbient | Moscow,http://79.111.119.111:8002/droneambient
-Space Music [Radio Caprice],Ambient SpaceMusic,http://79.111.119.111:9105
-ChillTrax,ChillOut DownTempo Ambient,http://station.chilltrax.com
-Ambient Radio,Ambient ChillOut Meditation Lounge NewAge,http://uk2.internet-radio.com:31491
-Ambiesphere,Ambient ChillOut,http://uk5.internet-radio.com:8347
-Nirvana Meditation,Ambient ChillOut | Poland,http://81.219.54.6:8004
-Vibration Zen Relax,Ambient | Swiss,http://91.121.38.100:8220
-ChillOut Essentials [MixLive.ie],Ambient ChillOut DownTempo | Ireland,http://198.24.145.146:9998
-Solar Walk,Ambient,http://188.165.192.5:8193
-Relaxing Radio,Ambient,http://149.56.195.94:8660
-Serene,Ambient ChillOut DownTempo,http://192.99.17.12:4950
-Ambient I | Spaces [Calm Radio],Ambient Chill Electronic NewAge,http://23.82.11.88:6728/Ambient
-Global [SmoothLounge.com],Ambient Chill,http://149.56.155.210:80/Ambient
-AmbientRadio.org [internet-radio.com],Ambient ChillOut Meditation Lounge NewAge,http://80.85.84.114:31491
-Chill Lounge Florida,Chill Lounge,http://us5.internet-radio.com:8283/stream
-Ambient Art Foundation,Ambient,http://185.80.220.12:8154
-SonicCalm 8915,ChillOut Lounge DownTempo EasyListening,http://94.75.227.133:8915
-Nature [Radio Caprice],Nature,http://79.111.14.76:9083
-Sleepscapes | Rain,Ambient Chill,http://198.27.120.235:8850/Ambient
-Real World Sounds,Nature Ambient Chillout Relaxation StreetNoise,http://uk5.internet-radio.com:8260/stream
-White Noise,WhiteNoise Ambient ChillOut,http://109.74.196.48:8267
-Pink Noise Radio,ChillOut Ambient Noise | UK,http://uk1.internet-radio.com:8004
-Sven Radio,Ambient ChillOut NewAge | TechHouse EDM,http://51.255.127.128:8012
-? LFOD: Pi Radio,ChillOut Trap Chillstep Ambient,http://radio.lfod.online:3140/mpd
-? Indie Int. Lounge Network,Lounge ChillOut Ambient,http://206.190.130.182:8188
-? Dark Ambient[same 8835?],DarkAmbient | Germany,http://s3.viastreaming.net:8835/
-? Dark Ambient[same 8835?],DarkAmbient,http://95.211.3.65:8835
-? Moon Phase,Ambient DownTempo | UK,http://109.236.85.141:7009
-? RePlayScape,Ambient Chill Classical Electronic Experimental,http://195.176.247.12:8128
-? Ambient Chill Psychedelic [Psychedelik.com],Ambient,http://163.172.98.143:8002/Ambient
-? Loca Ambient,Ambient | Madrid,http://audio-online.net:8007/live
-? intraNature,Meditation Ambient Nature,http://192.240.102.198:14244
-? UVB-76,Ambient | Russia,http://uk3-pn.mixstream.net:8370
-? Slowmodo Rain,Ambient,http://149.202.79.68:8139
-? ChillOut | Lounge DJ Set [Chromanova.fm],Ambient Chill Lounge DownTempo Techno | Berlin,http://176.31.123.212:8192/Ambient
-? SleepBot Env. Broadcast,Ambient,http://sc13.shoutcaststreaming.us:8194
-? Ambient Radio: Party Vibe,Ambient ChillOut | London,http://94.130.238.52:8056/stream
-? FmDomPMR,ChillOut Ambient PsyChill,http://130.185.144.199:18832
-? Ambient [ChromaRadio],Ambient | Athens,http://148.251.184.14:8004
-? SSR1 [Systrum Sistum],Ambient Drone Electronic Experimental | Australia,http://systrum.net:8000/Systrum-Channel1
-? Ambi103,DarkAmbient ChillOut DownTempo,http://173.208.177.90:16576
+DEF CON [SomaFM],"mid-tempo, downtempo, chill-out, chillstep, electro-soul, ambient",http://ice3.somafm.com/defcon-128-aac
+Black Rock FM [SomaFM],"dark ambient, desert electronic",http://ice3.somafm.com/brfm-128-aac
+Synphaera [SomaFM],"modern electronic, ambient, space",http://ice2.somafm.com/synphaera-128-aac
+Drone Zone [SomaFM],"ambient, space",http://ice2.somafm.com/dronezone-128-aac
+Deep Space One [SomaFM],"ambient, space",http://ice2.somafm.com/deepspaceone-128-aac
+Space Station Soma [SomaFM],"downtempo, space",http://ice5.somafm.com/spacestation-128-aac
+SF 10-33 [SomaFM],"ambient, police dispatch",http://ice3.somafm.com/sf1033-128-aac
+Groove Salad [SomaFM],"ambient, downtempo",http://ice6.somafm.com/groovesalad-128-aac
+Groove Salad Classic [SomaFM],"downtempo, chill-out",http://ice4.somafm.com/gsclassic-128-aac
+n5MD [SomaFM],"ambient, modern composition, post-rock, experimental electronic",http://ice2.somafm.com/n5md-128-aac
+The Trip [SomaFM],"progressive house, trance",http://ice4.somafm.com/thetrip-128-aac
+DeepSpaceChill [Radio InfoWeb],"chill-out, EDM | New York",http://stream.radioinfoweb.net:8000/chill
+Ambient Modern,"ambient, lo-fi, new-age",http://163.172.169.217:80/Ambient
+Planet Ambi HD,"ambient, meditation | Swiss",http://176.31.107.8:9019/Ambient
+Radio Schizoid,"psychdelic, chill-out, ambient | Mumbai",http://94.130.113.214:8000/chill
+Chill Out Zone,"chill-out, psychill, ambient, breaks | NL",http://144.76.81.20:8000/Ambient
+AmbientRadio [MRG.fm],"ambient, meditation, experimental downtempo",http://62.149.196.16:8888
+Cosmic Island,"ambient, chill, new-age, meditation, spiritual",https://ais-edge08-live365-dal02.cdnstream.com/a65670
+Hirschmilch Chill-out,"chill-out",http://hirschmilch.de:7000/chillout.mp3
+Zero Beat Zone [MRG.fm],"dark industrial, psybient, environmental, experimental",http://62.149.196.16:8800/stream
+Real World Sounds,"nature sounds, ambient, chill-out, meditation",http://uk5.internet-radio.com:8260/stream
+Ambient Fantasy [DI],"ambient",http://5.39.71.159:8193
+Relaxing Radio,"ambient",http://149.56.195.94:8660
+Infinite Space,"ambient, downtempo, lo-fi",http://198.24.145.146:9654
+Echoes of BLUEMARS,"ambient",http://streams.echoesofbluemars.org/bluemars.m3u
+Cryosleep [Echoes of BLUEMARS],"ambient | Paris",http://streams.echoesofbluemars.org:8000/cryosleep
+Chill-out [psyradio.fm],"chill-out, goa trance, ambient",http://streamer.psyradio.org:8020/chillout
+Verdure.net,"ambient, electronica | Russia",http://air.verdure.net:8881
+Maschinengeist.org,"ambient, drone, experimental, downtempo, space, dream pop",http://185.47.61.71:8000/maschinengeist.org.192.mp3
+9128 Live,"ambient, techno, electronica",http://streams.radio.co:80/s0aa1e6f4a/listen
+Ultima Thule,"ambient",http://www.ultimathule.info/audio_programmes2019/UT_1298_56k.mp3
+STR [spacetravelradio.de],"lounge, ambient, space | Germany",http://136.243.156.30:1701/stream/2/
+Slow Focus: NTS,"meditation, drone, ambient | London",https://stream-mixtape-geo.ntslive.net/mixtape
+Seven Rays [laut.fm],"new-age, chill-out, ambient | Ukraine",http://7rays.stream.laut.fm/7rays
+Radio Record,"chill-out, ambient | Russia",http://air.radiorecord.ru:8102/chil_320
+Radio Provodach,"chill-out, ambient | Russia",http://station.waveradio.org/provodach
+Chill-out Zone,"drone, ambient, downtempo, lounge, chill-out",http://5.189.142.165:2304/stream
+Radio Dimensione Relax,"chill-out, lounge, ambient | Italy",http://tachyon.shoutca.st:8919/stream
+Radio Caprice,"drone, ambient | Moscow",http://79.111.119.111:8002/droneambient
+space [Radio Caprice],"ambient, space",http://79.111.119.111:9105
+ChillTrax,"chill-out, downtempo, ambient",http://station.chilltrax.com
+Ambient Radio,"ambient, chill-out, meditation, lounge, new-age",http://uk2.internet-radio.com:31491
+Ambiesphere,"ambient, chill-out",http://uk5.internet-radio.com:8347
+Nirvana Meditation,"ambient, chill-out | Poland",http://81.219.54.6:8004
+Vibration Zen Relax,"ambient | Swiss",http://91.121.38.100:8220
+Chill-out Essentials [MixLive.ie],"ambient, chill-out, downtempo | Ireland",http://198.24.145.146:9998
+Solar Walk,"ambient",http://188.165.192.5:8193
+Relaxing Radio,"ambient",http://149.56.195.94:8660
+Serene,"ambient, chill-out, downtempo",http://192.99.17.12:4950
+Ambient I | Spaces [Calm Radio],"ambient, chill-out, new-age",http://23.82.11.88:6728/Ambient
+Global [SmoothLounge.com],"ambient, chill-out",http://149.56.155.210:80/Ambient
+AmbientRadio.org [internet-radio.com],"ambient, chill-out, meditation, lounge, new-age",http://80.85.84.114:31491
+Chill Lounge Florida,"chill-out, lounge",http://us5.internet-radio.com:8283/stream
+Chill [Psyndora.com],"chill-out, electro, ambient",http://cast.magicstreams.gr:9125/stream
+Trance [Psyndora.com],"trance, electro, techno",http://cast.magicstreams.gr:9111/stream
+FNoob Techno,"underground techno | London",http://play.fnoobtechno.com:2199/stream/1/
+PsyRadio Progressive [Psyradio.fm],"progressive psytrance",http://streamer.psyradio.org:8010/listen.pls
+PsyRadio Chillout [Psyradio.fm],"chill-out",http://streamer.psyradio.org:8020/listen.pls
+PsyRadio PsyTrance [Psyradio.fm],"psytrance",http://streamer.psyradio.org:8020/listen.pls
+Psychic Radio Station,"psychill, psyambient, meditation, psydub",http://stream.psyradio.com.ua:8000/128kbps
+UZIC [Swiss],"minimal techno",http://www.uzic.ch/tek.m3u
+TechnoThorium [Cologne],"techno, dark techno, banging techno",http://stream.laut.fm/technothorium.m3u
+MnmlMe Official [Mannheim],"minimal, techno, tech house, dark techno, hart techno",http://stream.laut.fm/mnmlme-offical.m3u
+DarkMind [DE],"techno, dark techno, melodic techno",http://stream.laut.fm/darkmindradio.m3u
+Miss Aehmes [Gifhorn, Wolfsburg, Braunschweig, Hannover],"techno, tech house, minimal techno, minimal, minimal house, dark techno",http://stream.laut.fm/miss_aehmes.m3u
+Tronic [HBR1.com],"tech house, progressive house, electro, minimal",http://radio.hbr1.com/stream/tronic.ogg
+IDM Tranceponder [HBR1.com],"psychedelic, progressive trance, full-on",http://radio.hbr1.com/stream/trance.ogg
+Digital Impulse,"techno",http://orion.shoutca.st:8938/stream/1/
+Radio Q37,"ambient, psychill, progressive trance",https://radioq.radioca.st/stream
+Ambient Art Foundation,"ambient",http://185.80.220.12:8154
+SonicCalm 8915,"chill-out, lounge, downtempo, easy listening",http://94.75.227.133:8915
+Nature [Radio Caprice],"nature sounds",http://79.111.14.76:9083
+Sleepscapes | Rain,"ambient, chill-out",http://198.27.120.235:8850/Ambient
+Real World Sounds,"nature sounds, ambient, chill-out, meditation, street noise",http://uk5.internet-radio.com:8260/stream
+White Noise,"white noise, ambient, chill-out",http://109.74.196.48:8267
+Pink Noise Radio,"chill-out, ambient, Noise | UK",http://uk1.internet-radio.com:8004
+Sven Radio,"ambient, chill-out, new-age | TechHouse EDM",http://51.255.127.128:8012
+Ambi103,"dark ambient, chill-out, downtempo",http://173.208.177.90:16576
+Ambient Chill Psychedelic [Psychedelik.com],"ambient",http://stream.psychedelik.com:8002
+RePlayScape,"ambient, chill-out, classical, experimental",http://195.176.247.12:8128
+Ambient [Moon Phase],"ambient, downtempo | UK",http://108.61.34.50:7317
+Chill [Moon Phase],"downtempo, lounge, chill, chillstep, lo-fi, future bass | UK",http://84.16.229.114:7009
+Dark Ambient[same 8835?],"dark ambient | Germany",http://s3.viastreaming.net:8835/
+LFOD: Pi Radio,"chill-out, trap, chillstep, ambient",http://radio.lfod.online:3140/mpd
+? Indie Int. Lounge Network,"lounge, chill-out, ambient",http://206.190.130.182:8188
+? Loca Ambient,"ambient | Madrid",http://audio-online.net:8007/live
+? UVB-76,"ambient | Russia",http://uk3-pn.mixstream.net:8370
+? Slowmodo Rain,"ambient",http://149.202.79.68:8139
+? Chill-out | Lounge DJ Set [Chromanova.fm],"ambient, chill-out, lounge, downtempo, techno | Berlin",http://176.31.123.212:8192/Ambient
+? SleepBot Env. Broadcast,"ambient",http://sc13.shoutcaststreaming.us:8194
+? Ambient Radio: Party Vibe,"ambient, chill-out, | London",http://94.130.238.52:8056/stream
+? FmDomPMR,"chill-out, ambient, psychill",http://130.185.144.199:18832
+? Ambient [ChromaRadio],"ambient | Athens",http://148.251.184.14:8004
+? SSR1 [Systrum Sistum],"ambient, drone, experimental | Australia",http://systrum.net:8000/Systrum-Channel1
