@@ -8,6 +8,10 @@
 - [Python 3.9.0](https://docs.python.org/3.9/)
 - [VLC media player](https://snapcraft.io/vlc) 3.0.11
 
+## Check Out thee Fork
+
+Before going any further, check out zcutlip's fork: [zcutlip/chill_streams](https://github.com/zcutlip/chill_streams), which has been much more thoroughly developed and secured.
+
 ## vlc_radio_wrapper Module
 
 ```python
